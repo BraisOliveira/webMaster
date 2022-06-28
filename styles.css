@@ -320,3 +320,9 @@
   .content p {
     text-align: center;
   }
+
+ @media (max-width: 1366px) {
+    .contact-links {
+      margin-bottom: 125px;
+    }
+    
