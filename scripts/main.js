@@ -1,7 +1,7 @@
 //javascript "mediaquery" only for educational reasons
-window.onscroll = function() {myFunction()};
+window.onscroll = function() {mq()};
 
-function myFunction() {
+function mq() {
     if (screen.height < 865){
         var y = window.scrollY;
         if (y >= 1441.5){
