@@ -112,7 +112,7 @@
     margin-right: 2rem;
   }
   
-  @media (max-width: 28.75em) {
+  @media (max-width: /*28.75em*/61.25em) {
     .nav {
       justify-content: center;
     }
